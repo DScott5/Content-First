@@ -1,0 +1,17 @@
+.test{font-family: courier;
+color: rgb(204,153,102);
+font-size: 20px;}
+
+.normal{font-family: courier;
+color: rgb(204,153,102);
+font-size: 40px;}
+
+.italic{font-family: courier;
+color: rgb(204,153,102);
+font-size: 40px;
+font-style: italic;}
+
+.oblique{font-family: courier;
+color: rgb(204,153,102);
+font-size: 40px;
+font-style: oblique;}
