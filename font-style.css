@@ -1,17 +1,42 @@
-.test{font-family: courier;
-color: rgb(204,153,102);
-font-size: 20px;}
-
-.normal{font-family: courier;
-color: rgb(204,153,102);
-font-size: 40px;}
-
-.italic{font-family: courier;
+.test1{font-family: courier;
 color: rgb(204,153,102);
 font-size: 40px;
-font-style: italic;}
+text-align: center;
+padding-bottom: 30px;
+border-bottom: 3px solid;
+}
 
-.oblique{font-family: courier;
+.test2{font-family: courier;
 color: rgb(204,153,102);
 font-size: 40px;
-font-style: oblique;}
+text-align: center;
+padding-bottom: 30px;
+border-bottom: 3px solid;
+}
+
+.test3{font-family: courier;
+color: rgb(204,153,102);
+font-size: 40px;
+text-align: center;
+padding-bottom: 30px;
+border-bottom: 3px solid;
+}
+
+body{
+background-color: rgb(255,204,153);
+}
+
+.header1{font-family: courier;
+color: rgb(204,153,102);
+font-size: 80px;
+text-align: center;
+border-style: solid;
+border-width: 5px;
+}
+
+.header2{font-family: courier;
+color: rgb(204,153,102);
+font-size: 40px;
+text-align: center;
+margin-top: -30px;
+}
