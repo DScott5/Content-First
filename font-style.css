@@ -22,6 +22,18 @@ padding-bottom: 30px;
 border-bottom: 3px solid;
 }
 
+div{font-family: courier;
+background-color: rgb(204,153,102);
+color: rgb(153,102,51);
+padding: 25px;
+text-align: center;
+margin-top: 150px;
+}
+
+div:hover{
+background-color: rgb(204,153,153);
+}
+
 body{
 background-color: rgb(255,204,153);
 }
