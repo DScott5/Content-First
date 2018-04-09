@@ -1,0 +1,189 @@
+.line1{font-family: courier;
+color: #cc9966;
+font-size: 40px;
+text-align: center;
+padding-bottom: 40px;
+border-bottom: 3px solid;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.line2{font-family: courier;
+color: #cc9966;
+font-size: 40px;
+text-align: center;
+padding-bottom: 40px;
+border-bottom: 3px solid;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.line3{font-family: courier;
+color: #cc9966;
+font-size: 40px;
+text-align: center;
+padding-bottom: 40px;
+border-bottom: 3px solid;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.description{font-family: courier;
+color: #cc9966;
+font-size: 40px;
+text-align: center;
+}
+
+nav{font-family: courier;
+background-color: #cc9966;
+color: #663300;
+padding: 25px;
+text-align: center;
+margin-top: 100px;
+}
+
+body{
+background-color: #ffcc99;
+}
+
+.header1{font-family: courier;
+color: #cc9966;
+font-size: 80px;
+text-align: center;
+border-style: solid;
+border-width: 5px;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.header2{font-family: courier;
+color: #cc9966;
+font-size: 40px;
+text-align: center;
+margin-top: -30px;
+
+}
+
+.header3{font-family: courier;
+color: #cc9966;
+font-size: 80px;
+text-align: center;
+border-style: solid;
+border-width: 5px;
+margin-top: 500px;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.header4{font-family: courier;
+color: #cc9966;
+font-size: 80px;
+text-align: center;
+border-style: solid;
+border-width: 5px;
+margin-top: 500px;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.header5{font-family: courier;
+color: #cc9966;
+font-size: 80px;
+text-align: center;
+border-style: solid;
+border-width: 5px;
+margin-top: 500px;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.header6{font-family: courier;
+color: #cc9966;
+font-size: 80px;
+text-align: center;
+border-style: solid;
+border-width: 5px;
+margin-top: 500px;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.header7{font-family: courier;
+color: #cc9966;
+font-size: 80px;
+text-align: center;
+border-style: solid;
+border-width: 5px;
+margin-top: 500px;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.capitals{font-family: courier;
+color: #cc9966;
+font-size: 60px;
+line-height: 1em;
+letter-spacing: 30px;
+text-align: center;
+}
+
+.lowercase{font-family: courier;
+color: #cc9966;
+font-size: 60px;
+line-height: 1em;
+letter-spacing: 30px;
+text-align: center;
+}
+
+.other{font-family: courier;
+color: #cc9966;
+font-size: 60px;
+line-height: 1em;
+letter-spacing: 30px;
+text-align: center;
+}
+
+.divide{
+border-bottom: 3px solid;
+max-width: 1000px;
+color: #cc9966;
+margin-left: auto;
+margin-right: auto;
+}
+
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+a:link{color: #663300;}
+
+a:visited{color: #663300;}
+
+a:hover{color: #996666;}
+
+a:active{color: #666600;}
+
+.tryme{
+        border: none;
+        caret-color: transparent;
+        font-size: 30px;
+        font-family: courier;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    input:focus,
+    input:active {
+        outline: none;
+    }
